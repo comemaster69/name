@@ -1,0 +1,101 @@
+body{
+  background-color: hsl(185, 75%, 39%);
+  height: 400px;
+  width: 700px; 
+}
+
+.pattern{
+  width: 270px;
+  position: absolute;
+  left: 450px;
+  bottom: 360px;
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+}
+
+.victor{
+  position: absolute;
+  left: 535px;
+  top: 250px; 
+  border-radius: 46px;
+}
+
+.cont{
+  display: inline-block;
+  margin: 20px;
+  position: relative;
+  bottom: 840px;
+  font-weight: 500px;
+  font-size: 18px;
+  left: 444px;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.func{
+  color: hsl(0, 0%, 59%);
+  font-size: small;
+}
+
+.place{
+  font-size: medium ;
+  color: hsl(0, 0%, 59%);
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+a{
+  left: 85px;
+  font-size: 18px;
+  top: 84px;
+  font-weight: 700px;
+  text-align: center;
+  line-height: 1.4;
+  position: absolute;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.age{
+  position: absolute;
+  top: 369px;
+  font-size: medium;
+  left: 642px;
+  font-family: 'Kumbh Sans', sans-serif;
+  color: hsl(0, 0%, 59%);;
+}
+
+hr{
+  position: relative;
+  bottom: 935px;
+  width:268px;
+  left: 227px;
+  opacity: 50%;
+}
+
+.box{
+  background-color: #ffffff;
+  height: 240px;
+  width: 270px;
+  position: absolute;
+  bottom: 140px;
+  left: 450px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.cmp{
+  height: 100px;
+
+}
+
+.top{
+  width: 600px;
+  position: relative;
+  right: 50px; 
+  bottom: 270px;
+}
+
+.bottom{
+  height: 670px;
+  position: relative;
+  left: 595px;
+  bottom: 300px;
+}
